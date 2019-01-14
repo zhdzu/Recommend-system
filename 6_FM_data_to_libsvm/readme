@@ -1,1 +1,3 @@
-
+fm_new.py 将爬虫后的数据处理成libsvm格式，利用libfm进行求解FM算法；
+linfm的说明见libfm-1.42.manual.pdf；
+fm1_libsvm和fm1_test是输出结果的参考文件。
