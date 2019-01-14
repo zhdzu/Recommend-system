@@ -1,0 +1,2 @@
+socialnetwork_v.py：豆瓣用户社交网络的可视化，生成网页形式
+other_visualization.py：其他可视化代码：比如说度分布，电影流行度，pagerank中间中心性分布图
