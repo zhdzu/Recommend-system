@@ -1,0 +1,2 @@
+利用Surprise包对经典的推荐算法进行实现，包括SVD、SVD++、基础版协同过滤(KNNBasic)、均值协同过滤(KNNWithMeans)、协同过滤(baselineonly)，
+评价指标为RMSE、MAE、FCP
