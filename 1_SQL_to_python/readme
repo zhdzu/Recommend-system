@@ -1,1 +1,3 @@
-
+本文件夹从MySQL数据库中将文件导入python，并提取出用户电影的评分矩阵。
+sql-python.py 将数据导入python，储存为movie.csv和user.csv；
+work1.py 对数据进行预处理，提取出评分矩阵。
