@@ -1,1 +1,2 @@
-doc2vec模型：电影描述性信息summary的doc2vec模型，将剧情简介表示成353维向量。
+summary——doc2vec建立：电影描述性信息summary的doc2vec模型，将剧情简介表示成353维向量；
+type_actor_director_summary：将电影类型type，主演actor，导演director，电影描述性信息summary向量化
