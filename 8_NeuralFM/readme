@@ -1,1 +1,2 @@
 FM算法只考虑了各个特征的线性组合，本文利用神经网络来探讨非线性的组合。
+python NeuralFM.py --dataset f1 --hidden_factor 64 --layers [64] --keep_prob [0.8,0.5] --loss_type square_loss --activation relu --pretrain 0 --optimizer AdagradOptimizer --lr 0.05 --batch_norm 1 --verbose 1 --early_stop 1 --epoch 200
